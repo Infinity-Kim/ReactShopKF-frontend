@@ -1,19 +1,21 @@
 # ReactShopKF-frontend
 
 ## Используемые технологии
-* React
-* React Router
-* Redux
-* Redux-Saga
-* TypeScript
-* Styled Components
-* Axios
-* Eslint
-* Prettier
-* Jest
-* Vite
+
+- React
+- React Router
+- Redux
+- Redux-Saga
+- TypeScript
+- Styled Components
+- Axios
+- Eslint
+- Prettier
+- Jest
+- Vite
 
 ## Структура папок
+
 "+" - помечены файлы и папки доступные для использования
 
 "-" - помечены файлы и папки недоступные для использования
