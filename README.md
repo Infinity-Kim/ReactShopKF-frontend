@@ -6,7 +6,7 @@
 * Redux
 * Redux-Saga
 * TypeScript
-* Styled Components || SCSS ???
+* Styled Components
 * Axios
 * Eslint
 * Prettier
@@ -57,9 +57,14 @@
   |+ App.vue                        - файл приложения
 |- eslintrc.js                      - файл конфигурации EsLint
 |+ .gitignore                       - файл с исключениями git
+|+ index.html                       - файл монтирования приложения
 |- package.json                     - файл конфигурации проекта npm
 |- package-lock.json                - файл конфигурации проекта npm
 |- README.md                        - файл readme
 |- tsconfig.json                    - файл конфигурации TypeScript
 |- tsconfig.node.json               - файл конфигурации TypeScript
 |+ vite.config.js                   - файл конфигурации Vite
+|- yarn.lock                        - файл конфигурации проекта yarn
+```
+
+### Руководство по стилю кода
